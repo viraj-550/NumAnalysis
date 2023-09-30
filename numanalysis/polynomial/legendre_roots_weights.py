@@ -159,8 +159,3 @@ class Legendre:
                 return None
         else:      
             return roots_weights_dict
-        
-
-if __name__ == "__main__":
-    ll = Legendre(degree = 20).roots_weights()
-    print(ll)
