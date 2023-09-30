@@ -1,6 +1,3 @@
----
-bibliography: reference.bib
----
 
 # Numerical Analysis Library
 
