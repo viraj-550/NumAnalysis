@@ -77,8 +77,8 @@ Contributions are welcome! If you have any suggestions, improvements, or bug fix
 
 ## Contact
 
-For inquiries or support, please contact Viraj Chordiya (virajchordiya550@gmail.com).
+For inquiries or support, please contact Viraj R. Chordiya (virajchordiya550@gmail.com).
 
 ## Reference
 
-Burden, R. L., Faires, J. D., & Burden, A. M. (2016). _Numerical analysis_ (Tenth edition). Cengage Learning.
+Burden R. L., Faires J. D., & Burden A. M. (2016). _Numerical analysis_ (Tenth edition). Cengage Learning.
